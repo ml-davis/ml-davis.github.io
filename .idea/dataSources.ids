@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source name="MySQL - OnlineRealEstate@localhost" uuid="912efcfc-7438-4745-b41c-98458c24a036">
+    <database-info product="MySQL" version="5.6.24-0ubuntu2" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.35 ( Revision: 5fb9c5849535c13917c2cf9baaece6ef9693ef27 )">
+      <extra-name-characters>#@</extra-name-characters>
+      <identifier-quote-string>`</identifier-quote-string>
+    </database-info>
+    <case-sensitivity plain-identifiers="exact" quoted-identifiers="exact"/>
+    <schema name="" catalog="OnlineRealEstate"/>
+    <table name="locations" schema="" catalog="OnlineRealEstate" type="TABLE">
+      <column name="id" sqlType="SMALLINT UNSIGNED" precision="5" scale="0" nullable="false" jdbcType="5" autoIncrement="true"/>
+      <column name="city" sqlType="VARCHAR" precision="128" scale="0" nullable="false" jdbcType="12"/>
+      <column name="state" sqlType="ENUM" precision="3" scale="0" nullable="false" jdbcType="1"/>
+      <column name="country" sqlType="ENUM" precision="3" scale="0" nullable="false" jdbcType="1"/>
+      <primary-key name="PRIMARY" columns="id"/>
+    </table>
+    <table name="temp" schema="" catalog="OnlineRealEstate" type="TABLE">
+      <column name="id" sqlType="INT" precision="10" scale="0" nullable="false" jdbcType="4" autoIncrement="true"/>
+      <column name="first_name" sqlType="VARCHAR" precision="35" scale="0" nullable="true" jdbcType="12"/>
+      <column name="last_name" sqlType="VARCHAR" precision="35" scale="0" nullable="true" jdbcType="12"/>
+      <column name="image" sqlType="VARCHAR" precision="64" scale="0" nullable="true" jdbcType="12"/>
+      <primary-key name="PRIMARY" columns="id"/>
+    </table>
+    <table name="tenant_profiles" schema="" catalog="OnlineRealEstate" type="TABLE">
+      <column name="tenant_id" sqlType="INT" precision="10" scale="0" nullable="false" jdbcType="4" autoIncrement="true"/>
+      <column name="location" sqlType="VARCHAR" precision="45" scale="0" nullable="true" jdbcType="12"/>
+      <column name="min_cost" sqlType="INT" precision="10" scale="0" nullable="true" jdbcType="4"/>
+      <column name="max_cost" sqlType="INT" precision="10" scale="0" nullable="true" jdbcType="4"/>
+      <column name="num_bedrooms" sqlType="INT" precision="10" scale="0" nullable="true" jdbcType="4"/>
+      <column name="num_bathrooms" sqlType="INT" precision="10" scale="0" nullable="true" jdbcType="4"/>
+      <column name="min_sq_ft" sqlType="INT" precision="10" scale="0" nullable="true" jdbcType="4"/>
+      <column name="max_sq_ft" sqlType="INT" precision="10" scale="0" nullable="true" jdbcType="4"/>
+      <column name="has_balcony" sqlType="ENUM" precision="6" scale="0" nullable="true" jdbcType="1"/>
+      <column name="has_dishwasher" sqlType="ENUM" precision="6" scale="0" nullable="true" jdbcType="1"/>
+      <column name="is_furnished" sqlType="ENUM" precision="6" scale="0" nullable="true" jdbcType="1"/>
+      <column name="allows_pets" sqlType="ENUM" precision="6" scale="0" nullable="true" jdbcType="1"/>
+      <column name="allows_smoking" sqlType="ENUM" precision="6" scale="0" nullable="true" jdbcType="1"/>
+      <column name="level_of_income" sqlType="DECIMAL" precision="8" scale="2" nullable="true" jdbcType="3"/>
+      <column name="extra_info" sqlType="TEXT" precision="65535" scale="0" nullable="true" jdbcType="-1"/>
+      <primary-key name="PRIMARY" columns="tenant_id"/>
+    </table>
+    <table name="users" schema="" catalog="OnlineRealEstate" type="TABLE">
+      <column name="user_id" sqlType="INT" precision="10" scale="0" nullable="false" jdbcType="4" autoIncrement="true"/>
+      <column name="first_name" sqlType="VARCHAR" precision="45" scale="0" nullable="true" jdbcType="12"/>
+      <column name="last_name" sqlType="VARCHAR" precision="45" scale="0" nullable="true" jdbcType="12"/>
+      <column name="phone_number" sqlType="VARCHAR" precision="13" scale="0" nullable="true" jdbcType="12"/>
+      <column name="email" sqlType="VARCHAR" precision="60" scale="0" nullable="true" jdbcType="12"/>
+      <column name="password" sqlType="VARCHAR" precision="20" scale="0" nullable="true" jdbcType="12"/>
+      <column name="user_type" sqlType="ENUM" precision="7" scale="0" nullable="true" jdbcType="1"/>
+      <column name="reg_date" sqlType="DATETIME" precision="19" scale="0" nullable="true" jdbcType="93" def="Q1VSUkVOVF9USU1FU1RBTVA="/>
+      <primary-key name="PRIMARY" columns="user_id"/>
+      <index name="email" unique="true" columns="email"/>
+    </table>
+  </data-source>
+  <data-source name="MySQL - learn_php@localhost" uuid="bd77dbb5-fff7-4204-9988-124fa3658bcd">
+    <database-info product="MySQL" version="5.6.24-0ubuntu2" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.35 ( Revision: 5fb9c5849535c13917c2cf9baaece6ef9693ef27 )">
+      <extra-name-characters>#@</extra-name-characters>
+      <identifier-quote-string>`</identifier-quote-string>
+    </database-info>
+    <case-sensitivity plain-identifiers="exact" quoted-identifiers="exact"/>
+    <schema name="" catalog="learn_php"/>
+    <table name="sql_injection" schema="" catalog="learn_php" type="TABLE">
+      <column name="user_name" sqlType="VARCHAR" precision="20" scale="0" nullable="true" jdbcType="12"/>
+      <column name="email" sqlType="VARCHAR" precision="200" scale="0" nullable="true" jdbcType="12"/>
+      <column name="approved" sqlType="ENUM" precision="4" scale="0" nullable="true" jdbcType="1"/>
+    </table>
+  </data-source>
+</component>

@@ -1,0 +1,1011 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cb7e37f0-4643-4cbf-8e92-b180252bc286" name="Default" comment="" />
+    <ignored path="html.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="onlinerealestate@localhost" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="onlinerealestate@localhost" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="users" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="onlinerealestate@localhost" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="user_prefs" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="onlinerealestate@localhost" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="properties" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="html" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="ORE_Functions2.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Projects/OnlineRealEstate/JavaScript/ORE_Functions2.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="880">
+              <caret line="40" column="48" lean-forward="false" selection-start-line="40" selection-start-column="48" selection-end-line="40" selection-end-column="48" />
+              <folding>
+                <marker date="1439746779000" expanded="true" signature="1520:1544" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1580">
+              <caret line="124" column="24" lean-forward="false" selection-start-line="124" selection-start-column="24" selection-end-line="124" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Projects/OnlineRealEstate/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1364">
+              <caret line="62" column="6" lean-forward="false" selection-start-line="62" selection-start-column="6" selection-end-line="62" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginPage.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Projects/OnlineRealEstate/PHP/LoginPage.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1474">
+              <caret line="67" column="61" lean-forward="false" selection-start-line="67" selection-start-column="61" selection-end-line="67" selection-end-column="61" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RegistrationPage.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Projects/OnlineRealEstate/PHP/RegistrationPage.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1716">
+              <caret line="126" column="20" lean-forward="true" selection-start-line="126" selection-start-column="20" selection-end-line="126" selection-end-column="56" />
+              <folding>
+                <marker date="1488081902678" expanded="true" signature="2449:2493" ph="SELECT email... users" />
+                <marker date="1488081902678" expanded="true" signature="3446:3670" ph="INSERT INTO users... " />
+                <marker date="1488081902678" expanded="true" signature="3913:3984" ph="SELECT user_... users" />
+                <marker date="1488081902678" expanded="true" signature="4229:5154" ph="INSERT INTO user_prefs... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Database.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Projects/OnlineRealEstate/PHP/Database.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="81" lean-forward="false" selection-start-line="8" selection-start-column="61" selection-end-line="8" selection-end-column="81" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EditProperties.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Projects/OnlineRealEstate/PHP/EditProperties.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1496">
+              <caret line="68" column="17" lean-forward="false" selection-start-line="68" selection-start-column="17" selection-end-line="68" selection-end-column="17" />
+              <folding>
+                <marker date="1488086412629" expanded="true" signature="1056:1097" ph="DELETE FROM " />
+                <marker date="1488086412629" expanded="true" signature="1991:2049" ph="SELECT prope... properties" />
+                <marker date="1488086412629" expanded="true" signature="3129:3153" ph="SELECT * FRO... properties" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Matches.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Projects/OnlineRealEstate/PHP/Matches.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="19" column="32" lean-forward="false" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+              <folding>
+                <marker date="1488086779684" expanded="true" signature="793:832" ph="SELECT * FRO... user_prefs" />
+                <marker date="1488086779684" expanded="true" signature="1037:1061" ph="SELECT * FRO... properties" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserProfile.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Projects/OnlineRealEstate/PHP/UserProfile.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1188">
+              <caret line="54" column="43" lean-forward="false" selection-start-line="54" selection-start-column="43" selection-end-line="54" selection-end-column="43" />
+              <folding>
+                <marker date="1488086585159" expanded="true" signature="1565:2246" ph="UPDATE user_... " />
+                <marker date="1488086585159" expanded="true" signature="2364:2403" ph="SELECT * FRO... user_prefs" />
+                <marker date="1488086585159" expanded="true" signature="2963:3074" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Property.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Projects/OnlineRealEstate/PHP/Property.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="32" column="45" lean-forward="true" selection-start-line="32" selection-start-column="45" selection-end-line="32" selection-end-column="45" />
+              <folding>
+                <marker date="1488086180125" expanded="true" signature="2196:2526" ph="REPLACE INTO... properties" />
+                <marker date="1488086180125" expanded="true" signature="2203:2526" ph="REPLACE INTO... properties" />
+                <marker date="1488086180125" expanded="true" signature="2778:3016" ph="SELECT addre... properties" />
+                <marker date="1488086180125" expanded="true" signature="6792:7029" ph="..." />
+                <marker date="1488086180125" expanded="true" signature="7266:7503" ph="..." />
+                <marker date="1488086180125" expanded="true" signature="7738:7975" ph="..." />
+                <marker date="1488086180125" expanded="true" signature="8202:8439" ph="..." />
+                <marker date="1488086180125" expanded="true" signature="8676:8913" ph="..." />
+                <marker date="1488086180125" expanded="true" signature="9068:9440" ph="..." />
+                <marker date="1488086180125" expanded="true" signature="9251:9440" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Html5" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>query 1</find>
+      <find>unable to</find>
+      <find>$con</find>
+      <find>execute query</find>
+      <find>click here</find>
+      <find>con</find>
+      <find>$ai</find>
+    </findStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Projects/Autocomplete/TheChuffBucket.php" />
+        <option value="$PROJECT_DIR$/Projects/Autocomplete/something.php" />
+        <option value="$PROJECT_DIR$/Projects/Autocomplete/ac_style.css" />
+        <option value="$PROJECT_DIR$/Projects/OnlineRealEstate/PHP/Pages/test.php" />
+        <option value="$PROJECT_DIR$/Projects/OnlineRealEstate/PHP/Pages/Matches.php" />
+        <option value="$PROJECT_DIR$/Projects/OnlineRealEstate/PHP/Pages/OwnerProfile.php" />
+        <option value="$PROJECT_DIR$/Projects/Autocomplete/Autocomplete.php" />
+        <option value="$PROJECT_DIR$/Projects/Autocomplete/locations.php" />
+        <option value="$PROJECT_DIR$/Projects/Autocomplete/ajax.js" />
+        <option value="$PROJECT_DIR$/Projects/Autocomplete/fuck.php" />
+        <option value="$PROJECT_DIR$/Projects/Learn_Node/algo.js" />
+        <option value="$PROJECT_DIR$/Projects/Learn_PHP/VerifyingVariables.php" />
+        <option value="$PROJECT_DIR$/Projects/Learn_PHP/FileUploader.php" />
+        <option value="$PROJECT_DIR$/Projects/Learn_PHP/Uploaded_Images/FuckAround.php" />
+        <option value="$PROJECT_DIR$/Projects/OnlineRealEstate/PHP/Scripts/Register.php" />
+        <option value="$PROJECT_DIR$/Projects/OnlineRealEstate/PHP/Scripts/Database.php" />
+        <option value="$PROJECT_DIR$/Projects/Learn_PHP/FreakProject/form2.php" />
+        <option value="$PROJECT_DIR$/Projects/Learn_PHP/FreakProject/form.php" />
+        <option value="$PROJECT_DIR$/Projects/Learn_PHP/FreakProject/db_master.php" />
+        <option value="$PROJECT_DIR$/Projects/Learn_PHP/Authentification.php" />
+        <option value="$PROJECT_DIR$/Projects/Learn_PHP/BitCalculator.php" />
+        <option value="$PROJECT_DIR$/Projects/Learn_PHP/StickyForm.php" />
+        <option value="$PROJECT_DIR$/Projects/Learn_PHP/Uploaded_Images/ValidateData.php" />
+        <option value="$PROJECT_DIR$/Projects/OnlineRealEstate/CSS/ORE_Style.css" />
+        <option value="$PROJECT_DIR$/Projects/OnlineRealEstate/PHP/Scripts/Functions.php" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/bd77dbb5-fff7-4204-9988-124fa3658bcd/console.sql" />
+        <option value="$PROJECT_DIR$/Projects/Learn_PHP/ValidateData.php" />
+        <option value="$PROJECT_DIR$/Projects/OnlineRealEstate/PHP/Scripts/Validator.php" />
+        <option value="$PROJECT_DIR$/Projects/OnlineRealEstate/PHP/Scripts/Login.php" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/912efcfc-7438-4745-b41c-98458c24a036/console.sql" />
+        <option value="$PROJECT_DIR$/Projects/OnlineRealEstate/PHP/Pages/RegistrationPage.php" />
+        <option value="$PROJECT_DIR$/Projects/OnlineRealEstate/PHP/Pages/TenantProfile.php" />
+        <option value="$PROJECT_DIR$/Projects/OnlineRealEstate/PHP/Pages/LoginPage.php" />
+        <option value="$PROJECT_DIR$/Projects/OnlineRealEstate/PHP/AddProperty.php" />
+        <option value="$PROJECT_DIR$/Projects/OnlineRealEstate/PHP/Logout.php" />
+        <option value="$PROJECT_DIR$/Projects/OnlineRealEstate/JavaScript/ORE_Functions2.js" />
+        <option value="$PROJECT_DIR$/Projects/OnlineRealEstate/PHP/TenantProfile.php" />
+        <option value="$PROJECT_DIR$/Projects/Learn_PHP/ImageUploader.php" />
+        <option value="$PROJECT_DIR$/Projects/HMS/database.php" />
+        <option value="$PROJECT_DIR$/Projects/HMS/directorSupplies.php" />
+        <option value="$PROJECT_DIR$/Projects/HMS/directorServices.php" />
+        <option value="$PROJECT_DIR$/Style.css" />
+        <option value="$PROJECT_DIR$/Functions.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/Projects/OnlineRealEstate/PHP/LoginPage.php" />
+        <option value="$PROJECT_DIR$/Projects/OnlineRealEstate/PHP/RegistrationPage.php" />
+        <option value="$PROJECT_DIR$/Projects/OnlineRealEstate/PHP/Database.php" />
+        <option value="$PROJECT_DIR$/Projects/OnlineRealEstate/PHP/Property.php" />
+        <option value="$PROJECT_DIR$/Projects/OnlineRealEstate/PHP/EditProperties.php" />
+        <option value="$PROJECT_DIR$/Projects/OnlineRealEstate/PHP/UserProfile.php" />
+        <option value="$PROJECT_DIR$/Projects/OnlineRealEstate/PHP/Matches.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBowerSettings">
+    <exe-path />
+    <config-path />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 5.6">
+    <include_path>
+      <path value="." />
+      <path value="/usr/share/php" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="3858" />
+    <option name="height" value="2178" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Code SmellPHP</id>
+          </State>
+          <State>
+            <id>Code StylePHP</id>
+          </State>
+          <State>
+            <id>Control FlowPHP</id>
+          </State>
+          <State>
+            <id>GeneralPHP</id>
+          </State>
+          <State>
+            <id>PHP</id>
+          </State>
+          <State>
+            <id>PHPDocPHP</id>
+          </State>
+          <State>
+            <id>Probable bugsPHP</id>
+          </State>
+          <State>
+            <id>Type compatibilityPHP</id>
+          </State>
+          <State>
+            <id>UndefinedPHP</id>
+          </State>
+          <State>
+            <id>UnusedPHP</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Projects" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OnlineRealEstate" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Projects" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OnlineRealEstate" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SQL" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Projects" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OnlineRealEstate" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHP" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Projects" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OnlineRealEstate" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaScript" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
+    <property name="jsx.switch.disabled" value="true" />
+    <property name="recentsLimit" value="5" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="js.eslint.nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="sql&#9;null&#9;null" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Projects/Autocomplete" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Projects/OnlineRealEstate/PHP" />
+      <recent name="$PROJECT_DIR$/Projects/Learn_PHP/" />
+      <recent name="$PROJECT_DIR$/Projects/PHP/ScriptName" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="false" name="Connect.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="Connect.js" working-dir="$PROJECT_DIR$/Projects/Node">
+      <method />
+    </configuration>
+    <configuration default="false" name="CoreModules.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="CoreModules.js" working-dir="$PROJECT_DIR$/Projects/Node">
+      <method />
+    </configuration>
+    <configuration default="false" name="Functions2.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="Functions2.js" working-dir="$PROJECT_DIR$/Projects/OnlineRealEstate/JavaScript">
+      <method />
+    </configuration>
+    <configuration default="false" name="Import.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="Import.js" working-dir="$PROJECT_DIR$/Projects/Node">
+      <method />
+    </configuration>
+    <configuration default="false" name="UseObjects.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="UseObjects.js" working-dir="$PROJECT_DIR$/Projects/Node">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.Connect.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.CoreModules.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.Functions2.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.Import.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.UseObjects.js" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb7e37f0-4643-4cbf-8e92-b180252bc286" name="Default" comment="" />
+      <created>1432599588085</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1432599588085</updated>
+      <workItem from="1433040332607" duration="7915000" />
+      <workItem from="1433158063845" duration="733000" />
+      <workItem from="1433184669505" duration="4231000" />
+      <workItem from="1433193187528" duration="2944000" />
+      <workItem from="1433218253400" duration="6218000" />
+      <workItem from="1433266990054" duration="10493000" />
+      <workItem from="1433289310650" duration="1344000" />
+      <workItem from="1433377075346" duration="762000" />
+      <workItem from="1433378744628" duration="1087000" />
+      <workItem from="1433434813552" duration="3880000" />
+      <workItem from="1433441030896" duration="6217000" />
+      <workItem from="1433521701911" duration="1513000" />
+      <workItem from="1433526208310" duration="451000" />
+      <workItem from="1433565875052" duration="1117000" />
+      <workItem from="1433610246901" duration="19210000" />
+      <workItem from="1433646386825" duration="58971000" />
+      <workItem from="1433802042916" duration="319000" />
+      <workItem from="1433802428168" duration="901000" />
+      <workItem from="1433803999797" duration="11561000" />
+      <workItem from="1433869140450" duration="6545000" />
+      <workItem from="1433883409201" duration="7165000" />
+      <workItem from="1434143306352" duration="2425000" />
+      <workItem from="1434166087137" duration="46651000" />
+      <workItem from="1434488524427" duration="10549000" />
+      <workItem from="1434571792336" duration="25838000" />
+      <workItem from="1434678201686" duration="7104000" />
+      <workItem from="1434732202665" duration="9058000" />
+      <workItem from="1434746341490" duration="3577000" />
+      <workItem from="1434749975577" duration="293000" />
+      <workItem from="1434812101416" duration="4978000" />
+      <workItem from="1434819910599" duration="183000" />
+      <workItem from="1434820134673" duration="4631000" />
+      <workItem from="1434829026819" duration="1643000" />
+      <workItem from="1434830767134" duration="962000" />
+      <workItem from="1434831773220" duration="132000" />
+      <workItem from="1434832013829" duration="479000" />
+      <workItem from="1434846425856" duration="2376000" />
+      <workItem from="1434854638798" duration="278000" />
+      <workItem from="1434854970645" duration="796000" />
+      <workItem from="1434855813934" duration="3548000" />
+      <workItem from="1434930904385" duration="4220000" />
+      <workItem from="1434941905001" duration="1057000" />
+      <workItem from="1434943013221" duration="10858000" />
+      <workItem from="1435060742687" duration="8566000" />
+      <workItem from="1435105812942" duration="2768000" />
+      <workItem from="1435254566006" duration="1847000" />
+      <workItem from="1435517532445" duration="21246000" />
+      <workItem from="1435547609165" duration="1972000" />
+      <workItem from="1435590497800" duration="6000000" />
+      <workItem from="1435893126747" duration="65000" />
+      <workItem from="1435927417257" duration="598000" />
+      <workItem from="1437959636051" duration="144000" />
+      <workItem from="1438447054634" duration="19000" />
+      <workItem from="1438447105008" duration="1963000" />
+      <workItem from="1438882981805" duration="176000" />
+      <workItem from="1439530234334" duration="1062000" />
+      <workItem from="1488075922820" duration="4637000" />
+      <workItem from="1488080960374" duration="4000" />
+      <workItem from="1488080991345" duration="2158000" />
+      <workItem from="1488083166287" duration="3651000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="352089000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="3858" height="2178" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.084635414" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290938" sideWeight="0.49739778" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290938" sideWeight="0.50453174" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17526041" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3524721" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24981412" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6299841" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39969373" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290938" sideWeight="0.4954683" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28775835" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32695374" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32854864" sideWeight="0.5026022" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24622357" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24981412" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39969373" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924962" sideWeight="0.49739778" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3524721" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32854864" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32750398" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24169184" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32750398" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Projects/Learn_jQuery/2_word_changer.html" />
+    <entry file="file://$PROJECT_DIR$/Projects/Learn_jQuery/1_color_changer.html" />
+    <entry file="file://$PROJECT_DIR$/Projects/Learn_jQuery/3_autocomplete.html" />
+    <entry file="file://$PROJECT_DIR$/Projects/Learn_Ajax/foodstore.php" />
+    <entry file="file://$PROJECT_DIR$/Projects/Autocomplete/ac_style.css" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/idea.jar!/resources/html5-schema/html5/web-forms.rnc" />
+    <entry file="file://$PROJECT_DIR$/Projects/Autocomplete/ajax.js" />
+    <entry file="file://$PROJECT_DIR$/Projects/Autocomplete/Autocomplete.php" />
+    <entry file="file://$PROJECT_DIR$/Projects/Autocomplete/locations.php" />
+    <entry file="file://$PROJECT_DIR$/Projects/Learn_PHP/ScriptName/form.php" />
+    <entry file="file://$PROJECT_DIR$/Projects/Learn_PHP/FreakProject/form.php" />
+    <entry file="file://$PROJECT_DIR$/Projects/Learn_PHP/FreakProject/form2.php" />
+    <entry file="file://$PROJECT_DIR$/Projects/Learn_PHP/ServerVariables.php" />
+    <entry file="file://$PROJECT_DIR$/Projects/OnlineRealEstate/CSS/ORE_Style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="385" column="1" lean-forward="false" selection-start-line="385" selection-start-column="1" selection-end-line="385" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects/Learn_PHP/UploadErrors.php" />
+    <entry file="file://$PROJECT_DIR$/Projects/Learn_PHP/Time.php" />
+    <entry file="file://$PROJECT_DIR$/Projects/Learn_PHP/StickyForm.php" />
+    <entry file="file://$PROJECT_DIR$/Projects/Learn_PHP/FreakProject/db_master.php" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/bd77dbb5-fff7-4204-9988-124fa3658bcd/console.sql" />
+    <entry file="file://$PROJECT_DIR$/Projects/Learn_PHP/Authentification.php" />
+    <entry file="file://$PROJECT_DIR$/Projects/Learn_PHP/ValidateData.php" />
+    <entry file="dbDummy://dbtable:/706658ba/912efcfc-7438-4745-b41c-98458c24a036/OnlineRealEstate..users" />
+    <entry file="file://$PROJECT_DIR$/Projects/OnlineRealEstate/PHP/Functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects/OnlineRealEstate/PHP/Validator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="25" column="5" lean-forward="false" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/912efcfc-7438-4745-b41c-98458c24a036/console.sql" />
+    <entry file="file://$PROJECT_DIR$/Projects/OnlineRealEstate/PHP/Logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects/Learn_PHP/ImageUploader.php" />
+    <entry file="file://$PROJECT_DIR$/Projects/HMS/directorKitchen.php" />
+    <entry file="file://$PROJECT_DIR$/Projects/HMS/directorStorage.php" />
+    <entry file="file://$PROJECT_DIR$/Projects/HMS/directorSupplies.php" />
+    <entry file="file://$PROJECT_DIR$/Projects/HMS/database.php" />
+    <entry file="file://$PROJECT_DIR$/Projects/HMS/directorServices.php" />
+    <entry file="dbDummy://dbtable:/27942c4b/912efcfc-7438-4745-b41c-98458c24a036/OnlineRealEstate.locations" />
+    <entry file="file://$PROJECT_DIR$/Functions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="31" lean-forward="false" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/27942c4b/912efcfc-7438-4745-b41c-98458c24a036/OnlineRealEstate.users" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/76fa5a43-5baa-4ce3-8997-49814fa6670e/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/f65aa1d1-e086-44f1-a669-663bf9f224bd/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/27942c4b/f65aa1d1-e086-44f1-a669-663bf9f224bd/onlinerealestate.users">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects/OnlineRealEstate/SQL/table_creation.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="29" lean-forward="false" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/27942c4b/f65aa1d1-e086-44f1-a669-663bf9f224bd/onlinerealestate.properties">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="146" column="12" lean-forward="false" selection-start-line="146" selection-start-column="12" selection-end-line="146" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects/OnlineRealEstate/JavaScript/ORE_Functions2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="40" column="48" lean-forward="false" selection-start-line="40" selection-start-column="48" selection-end-line="40" selection-end-column="48" />
+          <folding>
+            <marker date="1439746779000" expanded="true" signature="1520:1544" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects/OnlineRealEstate/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1364">
+          <caret line="62" column="6" lean-forward="false" selection-start-line="62" selection-start-column="6" selection-end-line="62" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1580">
+          <caret line="124" column="24" lean-forward="false" selection-start-line="124" selection-start-column="24" selection-end-line="124" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects/OnlineRealEstate/PHP/Property.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="32" column="45" lean-forward="true" selection-start-line="32" selection-start-column="45" selection-end-line="32" selection-end-column="45" />
+          <folding>
+            <marker date="1488086180125" expanded="true" signature="2196:2526" ph="REPLACE INTO... properties" />
+            <marker date="1488086180125" expanded="true" signature="2203:2526" ph="REPLACE INTO... properties" />
+            <marker date="1488086180125" expanded="true" signature="2778:3016" ph="SELECT addre... properties" />
+            <marker date="1488086180125" expanded="true" signature="6792:7029" ph="..." />
+            <marker date="1488086180125" expanded="true" signature="7266:7503" ph="..." />
+            <marker date="1488086180125" expanded="true" signature="7738:7975" ph="..." />
+            <marker date="1488086180125" expanded="true" signature="8202:8439" ph="..." />
+            <marker date="1488086180125" expanded="true" signature="8676:8913" ph="..." />
+            <marker date="1488086180125" expanded="true" signature="9068:9440" ph="..." />
+            <marker date="1488086180125" expanded="true" signature="9251:9440" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects/OnlineRealEstate/PHP/LoginPage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1474">
+          <caret line="67" column="61" lean-forward="false" selection-start-line="67" selection-start-column="61" selection-end-line="67" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects/OnlineRealEstate/PHP/RegistrationPage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1716">
+          <caret line="126" column="20" lean-forward="true" selection-start-line="126" selection-start-column="20" selection-end-line="126" selection-end-column="56" />
+          <folding>
+            <marker date="1488081902678" expanded="true" signature="2449:2493" ph="SELECT email... users" />
+            <marker date="1488081902678" expanded="true" signature="3446:3670" ph="INSERT INTO users... " />
+            <marker date="1488081902678" expanded="true" signature="3913:3984" ph="SELECT user_... users" />
+            <marker date="1488081902678" expanded="true" signature="4229:5154" ph="INSERT INTO user_prefs... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects/OnlineRealEstate/PHP/Database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="81" lean-forward="false" selection-start-line="8" selection-start-column="61" selection-end-line="8" selection-end-column="81" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects/OnlineRealEstate/PHP/EditProperties.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1496">
+          <caret line="68" column="17" lean-forward="false" selection-start-line="68" selection-start-column="17" selection-end-line="68" selection-end-column="17" />
+          <folding>
+            <marker date="1488086412629" expanded="true" signature="1056:1097" ph="DELETE FROM " />
+            <marker date="1488086412629" expanded="true" signature="1991:2049" ph="SELECT prope... properties" />
+            <marker date="1488086412629" expanded="true" signature="3129:3153" ph="SELECT * FRO... properties" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects/OnlineRealEstate/PHP/UserProfile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="54" column="43" lean-forward="false" selection-start-line="54" selection-start-column="43" selection-end-line="54" selection-end-column="43" />
+          <folding>
+            <marker date="1488086585159" expanded="true" signature="1565:2246" ph="UPDATE user_... " />
+            <marker date="1488086585159" expanded="true" signature="2364:2403" ph="SELECT * FRO... user_prefs" />
+            <marker date="1488086585159" expanded="true" signature="2963:3074" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects/OnlineRealEstate/PHP/Matches.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="32" lean-forward="false" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+          <folding>
+            <marker date="1488086779684" expanded="true" signature="793:832" ph="SELECT * FRO... user_prefs" />
+            <marker date="1488086779684" expanded="true" signature="1037:1061" ph="SELECT * FRO... properties" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

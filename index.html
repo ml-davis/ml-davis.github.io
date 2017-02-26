@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <link type="text/css" rel="stylesheet" href="Style.css"/>
+    <script src="Functions.js"></script>
+    <title>Portfolio</title>
+</head>
+<body>
+
+    <!-- ********************************** HEADER ********************************** -->
+    <header>
+        <div id="profilePic">
+            <img src="Media/Images/profilePic.png"/>
+        </div>
+
+        <div id="headerText">
+            <h1>Matthew Davis</h1>
+            <div id="headerLeftSide">
+                <p>BS in Computer Science (Computer Systems)</p>
+                <p>Concordia University, Montreal QC</p>
+                <p>Seeking a position as a software developer</p>
+            </div>
+
+            <div id="headerRightSide">
+                <p>(514) 705 - 5036</p>
+                <p>ML.Davis195@gmail.com</p>
+                <p>Currently Residing: Montreal, QC, Canada</p>
+            </div>
+        </div>
+    </header>
+    
+    <!-- ********************************** NAV PANEL ********************************** -->
+    <nav>
+        <a onclick="location.href='#nanogram'"> <div class="navTab"><h4>Nanogram</h4></div> </a>
+        <a onclick="location.href='#mrRobot'"> <div class="navTab"><h4>Mr Robot</h4></div> </a>
+        <a onclick="location.href='#gameOfLife'"> <div class="navTab"><h4>Game of Life</h4></div> </a>
+        <a onclick="location.href='#onlineRealEstate'"> <div class="navTab"><h4>Online Real Estate</h4></div> </a>
+        <a onclick=""> <div class="navTab"><h4>Nav5</h4></div> </a>
+        <a onclick=""> <div class="navTab"><h4>Nav6</h4></div> </a>
+        <a onclick=""> <div class="navTab"><h4>Nav7</h4></div> </a>
+    </nav>
+
+    <main>
+
+        <!-- ********************************** PHOTOS PANEL ********************************** -->
+        <div id="photos">
+            <img class="photos" src=""/>
+            <img class="photos" src=""/>
+            <img class="photos" src=""/>
+            <img class="photos" src=""/>
+            <img class="photos" src=""/>
+        </div>
+
+        <!-- ********************************** ABOUT ME PANEL ********************************** -->
+        <div id="aboutMe" class="panel">
+            <h3>About Me</h3>
+            <p>
+                All my life, I have been fascinated by technology. Since I was young, I have loved playing video
+                games, spending time on the internet, and working with anything digital.
+            </p>
+            <p>
+                After high school, I worked many jobs. I had jumped between many blue collared positions and even
+                spent three years in the infantry with the Canadian Forces. The entire time, I had been left feeling
+                unfulfilled.
+            </p>
+            <p>
+                After my three year contract with the army expired, I decided it was time for a change. I knew that
+                I needed to pursue a career that I could be passionate about. I began programming. I fell in love with
+                it shortly after. The freedom to build and create whatever my mind desired was an exciting experience. 
+                Automating tedious tasks and building simple games became a hobby. The eureka moment that came when 
+                creating the perfect algorithm to solve a problem was so satisfying. Trying to create better, more 
+                flexible, and extensible code became an obsession of mine. I knew that I found what I wanted to do.
+            </p>
+            <p>
+                My experience as a developer is still in its early stages, but I continue to grow and expand my 
+                knowledge every day. I plan to keep developing my skills throughout my entire career. Becoming an 
+                absolute master developer is one my biggest dreams and aspirations.
+            </p>
+        </div>
+
+        <!--<div id="skills">-->
+            
+             <!--********************************** LEFT SKILLS PANEL ********************************** -->
+            <!--<div id="skillsLeft" class="halfPanel">
+                <h3 class="temp">Need to list skills here</h3>
+            </div>-->
+
+            <!-- ********************************** RIGHT SKILLS PANEL ********************************** -->
+            <!--<div id="skillsRight" class="halfPanel">
+                <h3 class="temp">Need to list skills here</h3>
+            </div>-->
+
+        <!--</div>-->
+
+        <!-- ********************************** PROJECTS PANEL ********************************** -->
+        <div id="projects" class="panel">
+            <div id="projectsHeader">
+                <h1>Personal Projects</h1>
+                <h3>
+                    These are projects that I've worked on in my free time to improve my skills
+                </h3><hr>
+            </div>
+
+            <script>
+                let description, uses, githubLink, webLink;
+
+                description = `This is a puzzle-based desktop application. It allows users to create and save
+                their own custom nanograms. It also allows users to solve them along with other randomly generated
+                puzzles.`;
+                uses = 'Java, JavaFX, MVC';
+                githubLink = 'https://www.google.ca';
+                loadProject("nanogram", "Nanogram", description, uses, githubLink);
+
+                description = `This is an embedded system using a Beaglebone Black, two Atmega328p's, an RC
+                    car, and some other components to build a simple self-driving car. It is able to recognize objects
+                    and respond accordingly.`;
+                uses = 'C, C++, OpenCV, Node JS, Bash';
+                githubLink = 'https://www.google.ca';
+                loadProject("mrRobot", "Mr Robot", description, uses, githubLink);
+
+                description = `This is a multi-threaded program built with the intention of running fast. The goal of
+                    the project was making the FPS run as high as possible.`;
+                uses = 'C++, OpenGL, TBB';
+                gitHubLink = 'https://www.google.ca';
+                loadProject("gameOfLife", "Game of Life", description, uses, githubLink, webLink);
+
+                description = `This project was created in order to practice taking I/O from many users and store their
+                    information in a database.`;
+                uses = 'PHP, MySQL, JavaScript, HTML, CSS';
+                gitHubLink = 'https://www.google.ca';
+                webLink = 'Projects/OnlineRealEstate/index.php';
+                loadProject("onlineRealEstate", "Online Real Estate", description, uses, githubLink, webLink);
+            </script>
+
+        </div>
+
+    </main>
+</body>
+</html>

@@ -1,0 +1,152 @@
+body {
+    padding: 20px;
+    background-color: #2b2b2b;
+    color: white;
+    text-shadow: 1px 1px 1px black;
+    margin: auto;
+    width: min-content;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    text-shadow: 1px 1px 1px black;
+}
+
+header {
+    width: 1300px;
+    height: 240px;
+    padding: 10px;
+    text-align: left;
+    border-radius: 20px;
+    border: double 4px black;
+    background-image: url("Media/Images/banner.jpg");
+    font-weight: bold;
+}
+
+header p {
+    margin-top: 8px;
+}
+
+#profilePic {
+    width: 200px;
+    height: 280px;
+    display: inline-block;
+}
+
+#profilePic img {
+    max-width: 100%;
+    max-height: 100%;
+    border-radius: 20px;
+}
+
+#headerText {
+    margin-left: 15px;
+    padding: 50px 10px 0 10px;
+    width: 1050px;
+    height: 190px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#headerLeftSide {
+    display: inline-block;
+    width: 49%;
+}
+
+#headerRightSide {
+    text-align: right;
+    display: inline-block;
+    width: 49%;
+}
+
+.navTab {
+    display: inline-block;
+    text-align: center;
+    margin: 5px 2px 5px 1px;
+    padding: 5px;
+    width: 164px;
+    background-image: url("Media/Images/tabPicture.png");
+    border: 4px double black;
+    border-radius: 20px;
+}
+
+.navTab:hover {
+    border: 4px double #d7ecff;
+}
+
+.panel {
+    margin: 5px;
+    width: 1250px;
+    background-color: #01477a;
+    border: 4px double black;
+    border-radius: 20px;
+    padding: 15px 30px 15px 30px;
+}
+
+.halfPanel {
+    display: inline-block;
+    vertical-align: top;
+    margin: 5px;
+    width: 584px;
+    height: 1150px;
+    background-image: url("Media/Images/blue_texture.jpg");
+    border: 4px double black;
+    border-radius: 20px;
+    padding: 5px 30px 15px 30px;
+}
+
+main {
+    text-align: left;
+}
+
+#photos{
+    margin: 10px 10px 1px 10px;
+    display: inline-block;
+}
+
+.photos {
+    height: 140px;
+    width: 256px;
+}
+
+#courseSchedule {
+    background-color: dimgray;
+}
+
+td {
+    width: 100px;
+}
+
+.past {
+    background-color: #567895;
+}
+
+.current {
+    background-color: #01477a;
+}
+
+.project {
+    margin-top: 25px;
+    margin-bottom: 75px;
+}
+
+.projectVideo {
+    margin: auto;
+    width: min-content;
+    height: 600px;
+}
+
+#projectsHeader {
+    text-align: center;
+}
+
+.projectImage {
+    width: 410px;
+    height: 232px;
+    margin: 3px;
+}
+
+.temp {
+    color: red;
+}
