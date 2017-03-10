@@ -20,7 +20,7 @@ function getHouseImages(from, to, first, last) {
 
 function fillFooter() {
     var footerString = "<h4>Copyright \u00A9 2015 Matthew Davis</h4>";
-    footerString += "<h4>ml.davis@outlook.com</h4>";
+    footerString += "<h4>ml.davis195@gmail.com</h4>";
     document.getElementById("footer").innerHTML = footerString;
 }
 

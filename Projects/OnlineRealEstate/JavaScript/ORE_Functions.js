@@ -41,7 +41,7 @@ function buildFooter() {
     var copyright = document.createElement("h4");
     copyright.appendChild(document.createTextNode("Copyright \u00A9 2015 Matthew Davis"));
     var email = document.createElement("h4");
-    email.appendChild(document.createTextNode("ml.davis@outlook.com"));
+    email.appendChild(document.createTextNode("ml.davis195@gmail.com"));
     document.getElementById("footer").appendChild(copyright);
     document.getElementById("footer").appendChild(email);
 }

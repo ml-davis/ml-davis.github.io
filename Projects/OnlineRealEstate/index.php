@@ -18,7 +18,7 @@
 
     <div id="mainPanel">
         <div id="details">
-            <h1>Welcome to Lexington Online Real Estate!</h1>
+            <h1>Welcome to Davis Online Real Estate!</h1>
             <a href='PHP/LoginPage.php' class="divButton">
                 <h3>Click here to login</h3>
             </a>
