@@ -42,20 +42,6 @@
         <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
       </PATH_ELEMENT>
       <PATH_ELEMENT>
-        <option name="myItemId" value="users" />
-        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
-      </PATH_ELEMENT>
-    </PATH>
-    <PATH>
-      <PATH_ELEMENT>
-        <option name="myItemId" />
-        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
-      </PATH_ELEMENT>
-      <PATH_ELEMENT>
-        <option name="myItemId" value="onlinerealestate@localhost" />
-        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
-      </PATH_ELEMENT>
-      <PATH_ELEMENT>
         <option name="myItemId" value="user_prefs" />
         <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
       </PATH_ELEMENT>
@@ -80,137 +66,122 @@
     <favorites_list name="html" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="ORE_Functions2.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Projects/OnlineRealEstate/JavaScript/ORE_Functions2.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="880">
-              <caret line="40" column="48" lean-forward="false" selection-start-line="40" selection-start-column="48" selection-end-line="40" selection-end-column="48" />
-              <folding>
-                <marker date="1439746779000" expanded="true" signature="1520:1544" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1580">
-              <caret line="124" column="24" lean-forward="false" selection-start-line="124" selection-start-column="24" selection-end-line="124" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Projects/OnlineRealEstate/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1364">
-              <caret line="62" column="6" lean-forward="false" selection-start-line="62" selection-start-column="6" selection-end-line="62" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LoginPage.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Projects/OnlineRealEstate/PHP/LoginPage.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1474">
-              <caret line="67" column="61" lean-forward="false" selection-start-line="67" selection-start-column="61" selection-end-line="67" selection-end-column="61" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RegistrationPage.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Projects/OnlineRealEstate/PHP/RegistrationPage.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1716">
-              <caret line="126" column="20" lean-forward="true" selection-start-line="126" selection-start-column="20" selection-end-line="126" selection-end-column="56" />
-              <folding>
-                <marker date="1488081902678" expanded="true" signature="2449:2493" ph="SELECT email... users" />
-                <marker date="1488081902678" expanded="true" signature="3446:3670" ph="INSERT INTO users... " />
-                <marker date="1488081902678" expanded="true" signature="3913:3984" ph="SELECT user_... users" />
-                <marker date="1488081902678" expanded="true" signature="4229:5154" ph="INSERT INTO user_prefs... " />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Database.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Projects/OnlineRealEstate/PHP/Database.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="81" lean-forward="false" selection-start-line="8" selection-start-column="61" selection-end-line="8" selection-end-column="81" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EditProperties.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Projects/OnlineRealEstate/PHP/EditProperties.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1496">
-              <caret line="68" column="17" lean-forward="false" selection-start-line="68" selection-start-column="17" selection-end-line="68" selection-end-column="17" />
-              <folding>
-                <marker date="1488086412629" expanded="true" signature="1056:1097" ph="DELETE FROM " />
-                <marker date="1488086412629" expanded="true" signature="1991:2049" ph="SELECT prope... properties" />
-                <marker date="1488086412629" expanded="true" signature="3129:3153" ph="SELECT * FRO... properties" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Matches.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Projects/OnlineRealEstate/PHP/Matches.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="19" column="32" lean-forward="false" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
-              <folding>
-                <marker date="1488086779684" expanded="true" signature="793:832" ph="SELECT * FRO... user_prefs" />
-                <marker date="1488086779684" expanded="true" signature="1037:1061" ph="SELECT * FRO... properties" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserProfile.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Projects/OnlineRealEstate/PHP/UserProfile.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1188">
-              <caret line="54" column="43" lean-forward="false" selection-start-line="54" selection-start-column="43" selection-end-line="54" selection-end-column="43" />
-              <folding>
-                <marker date="1488086585159" expanded="true" signature="1565:2246" ph="UPDATE user_... " />
-                <marker date="1488086585159" expanded="true" signature="2364:2403" ph="SELECT * FRO... user_prefs" />
-                <marker date="1488086585159" expanded="true" signature="2963:3074" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Property.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Projects/OnlineRealEstate/PHP/Property.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="32" column="45" lean-forward="true" selection-start-line="32" selection-start-column="45" selection-end-line="32" selection-end-column="45" />
-              <folding>
-                <marker date="1488086180125" expanded="true" signature="2196:2526" ph="REPLACE INTO... properties" />
-                <marker date="1488086180125" expanded="true" signature="2203:2526" ph="REPLACE INTO... properties" />
-                <marker date="1488086180125" expanded="true" signature="2778:3016" ph="SELECT addre... properties" />
-                <marker date="1488086180125" expanded="true" signature="6792:7029" ph="..." />
-                <marker date="1488086180125" expanded="true" signature="7266:7503" ph="..." />
-                <marker date="1488086180125" expanded="true" signature="7738:7975" ph="..." />
-                <marker date="1488086180125" expanded="true" signature="8202:8439" ph="..." />
-                <marker date="1488086180125" expanded="true" signature="8676:8913" ph="..." />
-                <marker date="1488086180125" expanded="true" signature="9068:9440" ph="..." />
-                <marker date="1488086180125" expanded="true" signature="9251:9440" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.6509893">
+      <split-first>
+        <splitter split-orientation="vertical" split-proportion="0.5">
+          <split-first>
+            <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+              <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/index.html">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="-2484">
+                      <caret line="17" column="34" lean-forward="true" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+                      <folding />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file leaf-file-name="Matches.php" pinned="false" current-in-tab="true">
+                <entry file="file://$PROJECT_DIR$/Projects/OnlineRealEstate/PHP/Matches.php">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="242">
+                      <caret line="28" column="35" lean-forward="false" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
+                      <folding>
+                        <marker date="1489175572129" expanded="true" signature="750:765" ph="SELECT addre... user_prefs" />
+                        <marker date="1489175572129" expanded="true" signature="750:858" ph="SELECT addre... user_prefs" />
+                        <marker date="1489175572129" expanded="true" signature="750:1898" ph="SELECT addre... user_prefs" />
+                      </folding>
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file leaf-file-name="EditProperties.php" pinned="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/Projects/OnlineRealEstate/PHP/EditProperties.php">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="1162">
+                      <caret line="60" column="46" lean-forward="false" selection-start-line="60" selection-start-column="46" selection-end-line="60" selection-end-column="46" />
+                      <folding>
+                        <marker date="1488086412629" expanded="true" signature="1056:1097" ph="DELETE FROM " />
+                        <marker date="1488086412629" expanded="true" signature="1991:2049" ph="SELECT prope... properties" />
+                        <marker date="1488086412629" expanded="true" signature="3129:3153" ph="SELECT * FRO... properties" />
+                      </folding>
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file leaf-file-name="ORE_Style.css" pinned="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/Projects/OnlineRealEstate/CSS/ORE_Style.css">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="266">
+                      <caret line="414" column="23" lean-forward="false" selection-start-line="414" selection-start-column="23" selection-end-line="414" selection-end-column="23" />
+                      <folding />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file leaf-file-name="onlinerealestate.user_prefs" pinned="false" current-in-tab="false">
+                <entry file="dbDummy://dbtable:/27942c4b/f65aa1d1-e086-44f1-a669-663bf9f224bd/onlinerealestate.user_prefs">
+                  <provider editor-type-id="text-editor">
+                    <state relative-caret-position="0">
+                      <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                      <folding />
+                    </state>
+                  </provider>
+                  <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+                    <state>
+                      <filtering enabled="true" />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+            </leaf>
+          </split-first>
+          <split-second>
+            <leaf>
+              <file leaf-file-name="onlinerealestate.properties" pinned="false" current-in-tab="true">
+                <entry file="dbDummy://dbtable:/27942c4b/f65aa1d1-e086-44f1-a669-663bf9f224bd/onlinerealestate.properties">
+                  <provider editor-type-id="text-editor">
+                    <state relative-caret-position="0">
+                      <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                      <folding />
+                    </state>
+                  </provider>
+                  <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+                    <state>
+                      <filtering enabled="true" />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+            </leaf>
+          </split-second>
+        </splitter>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="console.sql" pinned="false" current-in-tab="true">
+            <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/f65aa1d1-e086-44f1-a669-663bf9f224bd/console.sql">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="264">
+                  <caret line="12" column="90" lean-forward="false" selection-start-line="12" selection-start-column="90" selection-end-line="12" selection-end-column="90" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="match.sql" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Projects/OnlineRealEstate/SQL/match.sql">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="132">
+                  <caret line="6" column="12" lean-forward="false" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -230,6 +201,8 @@
       <find>click here</find>
       <find>con</find>
       <find>$ai</find>
+      <find>align</find>
+      <find>fee</find>
     </findStrings>
   </component>
   <component name="GradleLocalSettings">
@@ -240,8 +213,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Projects/Autocomplete/TheChuffBucket.php" />
-        <option value="$PROJECT_DIR$/Projects/Autocomplete/something.php" />
         <option value="$PROJECT_DIR$/Projects/Autocomplete/ac_style.css" />
         <option value="$PROJECT_DIR$/Projects/OnlineRealEstate/PHP/Pages/test.php" />
         <option value="$PROJECT_DIR$/Projects/OnlineRealEstate/PHP/Pages/Matches.php" />
@@ -263,7 +234,6 @@
         <option value="$PROJECT_DIR$/Projects/Learn_PHP/BitCalculator.php" />
         <option value="$PROJECT_DIR$/Projects/Learn_PHP/StickyForm.php" />
         <option value="$PROJECT_DIR$/Projects/Learn_PHP/Uploaded_Images/ValidateData.php" />
-        <option value="$PROJECT_DIR$/Projects/OnlineRealEstate/CSS/ORE_Style.css" />
         <option value="$PROJECT_DIR$/Projects/OnlineRealEstate/PHP/Scripts/Functions.php" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/bd77dbb5-fff7-4204-9988-124fa3658bcd/console.sql" />
         <option value="$PROJECT_DIR$/Projects/Learn_PHP/ValidateData.php" />
@@ -283,13 +253,16 @@
         <option value="$PROJECT_DIR$/Projects/HMS/directorServices.php" />
         <option value="$PROJECT_DIR$/Style.css" />
         <option value="$PROJECT_DIR$/Functions.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/Projects/OnlineRealEstate/PHP/LoginPage.php" />
         <option value="$PROJECT_DIR$/Projects/OnlineRealEstate/PHP/RegistrationPage.php" />
         <option value="$PROJECT_DIR$/Projects/OnlineRealEstate/PHP/Database.php" />
         <option value="$PROJECT_DIR$/Projects/OnlineRealEstate/PHP/Property.php" />
         <option value="$PROJECT_DIR$/Projects/OnlineRealEstate/PHP/EditProperties.php" />
         <option value="$PROJECT_DIR$/Projects/OnlineRealEstate/PHP/UserProfile.php" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/Projects/OnlineRealEstate/SQL/match.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/f65aa1d1-e086-44f1-a669-663bf9f224bd/console.sql" />
+        <option value="$PROJECT_DIR$/Projects/OnlineRealEstate/CSS/ORE_Style.css" />
         <option value="$PROJECT_DIR$/Projects/OnlineRealEstate/PHP/Matches.php" />
       </list>
     </option>
@@ -481,7 +454,21 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="JavaScript" />
+              <option name="myItemId" value="CSS" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Media" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -675,12 +662,17 @@
       <workItem from="1488075922820" duration="4637000" />
       <workItem from="1488080960374" duration="4000" />
       <workItem from="1488080991345" duration="2158000" />
-      <workItem from="1488083166287" duration="3651000" />
+      <workItem from="1488083166287" duration="4249000" />
+      <workItem from="1488098308799" duration="645000" />
+      <workItem from="1488123264193" duration="595000" />
+      <workItem from="1488132304890" duration="2167000" />
+      <workItem from="1488196010659" duration="599000" />
+      <workItem from="1489171328072" duration="4245000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="352089000" />
+    <option name="totallyTimeSpent" value="360938000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -692,19 +684,20 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="3858" height="2178" extended-state="6" />
+    <frame x="-9" y="-9" width="3858" height="2178" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.084635414" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28737375" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.07985193" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290938" sideWeight="0.49739778" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290938" sideWeight="0.50453174" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17526041" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3524721" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09888948" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3524721" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24981412" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6299841" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39969373" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39969373" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -718,7 +711,6 @@
       <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290938" sideWeight="0.4954683" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28775835" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32695374" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -774,9 +766,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Projects/Learn_jQuery/2_word_changer.html" />
-    <entry file="file://$PROJECT_DIR$/Projects/Learn_jQuery/1_color_changer.html" />
-    <entry file="file://$PROJECT_DIR$/Projects/Learn_jQuery/3_autocomplete.html" />
     <entry file="file://$PROJECT_DIR$/Projects/Learn_Ajax/foodstore.php" />
     <entry file="file://$PROJECT_DIR$/Projects/Autocomplete/ac_style.css" />
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/idea.jar!/resources/html5-schema/html5/web-forms.rnc" />
@@ -787,13 +776,6 @@
     <entry file="file://$PROJECT_DIR$/Projects/Learn_PHP/FreakProject/form.php" />
     <entry file="file://$PROJECT_DIR$/Projects/Learn_PHP/FreakProject/form2.php" />
     <entry file="file://$PROJECT_DIR$/Projects/Learn_PHP/ServerVariables.php" />
-    <entry file="file://$PROJECT_DIR$/Projects/OnlineRealEstate/CSS/ORE_Style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="385" column="1" lean-forward="false" selection-start-line="385" selection-start-column="1" selection-end-line="385" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Projects/Learn_PHP/UploadErrors.php" />
     <entry file="file://$PROJECT_DIR$/Projects/Learn_PHP/Time.php" />
     <entry file="file://$PROJECT_DIR$/Projects/Learn_PHP/StickyForm.php" />
@@ -831,41 +813,11 @@
     <entry file="file://$PROJECT_DIR$/Projects/HMS/database.php" />
     <entry file="file://$PROJECT_DIR$/Projects/HMS/directorServices.php" />
     <entry file="dbDummy://dbtable:/27942c4b/912efcfc-7438-4745-b41c-98458c24a036/OnlineRealEstate.locations" />
-    <entry file="file://$PROJECT_DIR$/Functions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="20" column="31" lean-forward="false" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="dbDummy://dbtable:/27942c4b/912efcfc-7438-4745-b41c-98458c24a036/OnlineRealEstate.users" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/76fa5a43-5baa-4ce3-8997-49814fa6670e/console.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/f65aa1d1-e086-44f1-a669-663bf9f224bd/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/27942c4b/f65aa1d1-e086-44f1-a669-663bf9f224bd/onlinerealestate.users">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -873,20 +825,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="15" column="29" lean-forward="false" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/27942c4b/f65aa1d1-e086-44f1-a669-663bf9f224bd/onlinerealestate.properties">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -894,7 +832,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="512">
           <caret line="146" column="12" lean-forward="false" selection-start-line="146" selection-start-column="12" selection-end-line="146" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -902,65 +839,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="880">
           <caret line="40" column="48" lean-forward="false" selection-start-line="40" selection-start-column="48" selection-end-line="40" selection-end-column="48" />
-          <folding>
-            <marker date="1439746779000" expanded="true" signature="1520:1544" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Projects/OnlineRealEstate/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1364">
-          <caret line="62" column="6" lean-forward="false" selection-start-line="62" selection-start-column="6" selection-end-line="62" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1580">
-          <caret line="124" column="24" lean-forward="false" selection-start-line="124" selection-start-column="24" selection-end-line="124" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Projects/OnlineRealEstate/PHP/Property.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="32" column="45" lean-forward="true" selection-start-line="32" selection-start-column="45" selection-end-line="32" selection-end-column="45" />
-          <folding>
-            <marker date="1488086180125" expanded="true" signature="2196:2526" ph="REPLACE INTO... properties" />
-            <marker date="1488086180125" expanded="true" signature="2203:2526" ph="REPLACE INTO... properties" />
-            <marker date="1488086180125" expanded="true" signature="2778:3016" ph="SELECT addre... properties" />
-            <marker date="1488086180125" expanded="true" signature="6792:7029" ph="..." />
-            <marker date="1488086180125" expanded="true" signature="7266:7503" ph="..." />
-            <marker date="1488086180125" expanded="true" signature="7738:7975" ph="..." />
-            <marker date="1488086180125" expanded="true" signature="8202:8439" ph="..." />
-            <marker date="1488086180125" expanded="true" signature="8676:8913" ph="..." />
-            <marker date="1488086180125" expanded="true" signature="9068:9440" ph="..." />
-            <marker date="1488086180125" expanded="true" signature="9251:9440" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Projects/OnlineRealEstate/PHP/LoginPage.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1474">
-          <caret line="67" column="61" lean-forward="false" selection-start-line="67" selection-start-column="61" selection-end-line="67" selection-end-column="61" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Projects/OnlineRealEstate/PHP/RegistrationPage.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1716">
-          <caret line="126" column="20" lean-forward="true" selection-start-line="126" selection-start-column="20" selection-end-line="126" selection-end-column="56" />
-          <folding>
-            <marker date="1488081902678" expanded="true" signature="2449:2493" ph="SELECT email... users" />
-            <marker date="1488081902678" expanded="true" signature="3446:3670" ph="INSERT INTO users... " />
-            <marker date="1488081902678" expanded="true" signature="3913:3984" ph="SELECT user_... users" />
-            <marker date="1488081902678" expanded="true" signature="4229:5154" ph="INSERT INTO user_prefs... " />
-          </folding>
+        <state relative-caret-position="1932">
+          <caret line="126" column="20" lean-forward="false" selection-start-line="126" selection-start-column="20" selection-end-line="126" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="31" lean-forward="false" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -968,14 +870,113 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="8" column="81" lean-forward="false" selection-start-line="8" selection-start-column="61" selection-end-line="8" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects/OnlineRealEstate/PHP/LoginPage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1474">
+          <caret line="67" column="61" lean-forward="false" selection-start-line="67" selection-start-column="61" selection-end-line="67" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects/OnlineRealEstate/PHP/UserProfile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="54" column="43" lean-forward="false" selection-start-line="54" selection-start-column="43" selection-end-line="54" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects/OnlineRealEstate/PHP/Property.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="32" column="45" lean-forward="false" selection-start-line="32" selection-start-column="45" selection-end-line="32" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/27942c4b/f65aa1d1-e086-44f1-a669-663bf9f224bd/onlinerealestate.users">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects/OnlineRealEstate/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1334">
+          <caret line="62" column="6" lean-forward="false" selection-start-line="62" selection-start-column="6" selection-end-line="62" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects/OnlineRealEstate/SQL/match.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="12" lean-forward="false" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/27942c4b/f65aa1d1-e086-44f1-a669-663bf9f224bd/onlinerealestate.properties">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/f65aa1d1-e086-44f1-a669-663bf9f224bd/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="90" lean-forward="false" selection-start-line="12" selection-start-column="90" selection-end-line="12" selection-end-column="90" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/27942c4b/f65aa1d1-e086-44f1-a669-663bf9f224bd/onlinerealestate.user_prefs">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2484">
+          <caret line="17" column="34" lean-forward="true" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects/OnlineRealEstate/CSS/ORE_Style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="414" column="23" lean-forward="false" selection-start-line="414" selection-start-column="23" selection-end-line="414" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Projects/OnlineRealEstate/PHP/EditProperties.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1496">
-          <caret line="68" column="17" lean-forward="false" selection-start-line="68" selection-start-column="17" selection-end-line="68" selection-end-column="17" />
+        <state relative-caret-position="1162">
+          <caret line="60" column="46" lean-forward="false" selection-start-line="60" selection-start-column="46" selection-end-line="60" selection-end-column="46" />
           <folding>
             <marker date="1488086412629" expanded="true" signature="1056:1097" ph="DELETE FROM " />
             <marker date="1488086412629" expanded="true" signature="1991:2049" ph="SELECT prope... properties" />
@@ -984,25 +985,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Projects/OnlineRealEstate/PHP/UserProfile.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1188">
-          <caret line="54" column="43" lean-forward="false" selection-start-line="54" selection-start-column="43" selection-end-line="54" selection-end-column="43" />
-          <folding>
-            <marker date="1488086585159" expanded="true" signature="1565:2246" ph="UPDATE user_... " />
-            <marker date="1488086585159" expanded="true" signature="2364:2403" ph="SELECT * FRO... user_prefs" />
-            <marker date="1488086585159" expanded="true" signature="2963:3074" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Projects/OnlineRealEstate/PHP/Matches.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="32" lean-forward="false" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+        <state relative-caret-position="242">
+          <caret line="28" column="35" lean-forward="false" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
           <folding>
-            <marker date="1488086779684" expanded="true" signature="793:832" ph="SELECT * FRO... user_prefs" />
-            <marker date="1488086779684" expanded="true" signature="1037:1061" ph="SELECT * FRO... properties" />
+            <marker date="1489175572129" expanded="true" signature="750:765" ph="SELECT addre... user_prefs" />
+            <marker date="1489175572129" expanded="true" signature="750:858" ph="SELECT addre... user_prefs" />
+            <marker date="1489175572129" expanded="true" signature="750:1898" ph="SELECT addre... user_prefs" />
           </folding>
         </state>
       </provider>

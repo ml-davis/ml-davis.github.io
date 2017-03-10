@@ -36,8 +36,8 @@
         <a onclick="location.href='#mrRobot'"> <div class="navTab"><h4>Mr Robot</h4></div> </a>
         <a onclick="location.href='#gameOfLife'"> <div class="navTab"><h4>Game of Life</h4></div> </a>
         <a onclick="location.href='#onlineRealEstate'"> <div class="navTab"><h4>Online Real Estate</h4></div> </a>
-        <a onclick=""> <div class="navTab"><h4>Nav5</h4></div> </a>
-        <a onclick=""> <div class="navTab"><h4>Nav6</h4></div> </a>
+        <a onclick="location.href='#persianTutor'"> <div class="navTab"><h4>Persian Tutor</h4></div> </a>
+        <a onclick="location.href='#searchEngine'"> <div class="navTab"><h4>Search Engine</h4></div> </a>
         <a onclick=""> <div class="navTab"><h4>Nav7</h4></div> </a>
     </nav>
 
@@ -123,7 +123,7 @@
                     the project was making the FPS run as high as possible.`;
                 uses = 'C++, OpenGL, TBB';
                 gitHubLink = 'https://www.google.ca';
-                loadProject("gameOfLife", "Game of Life", description, uses, githubLink, webLink);
+                loadProject("gameOfLife", "Game of Life", description, uses, githubLink);
 
                 description = `This project was created in order to practice taking I/O from many users and store their
                     information in a database.`;
@@ -131,6 +131,19 @@
                 gitHubLink = 'https://www.google.ca';
                 webLink = 'Projects/OnlineRealEstate/index.php';
                 loadProject("onlineRealEstate", "Online Real Estate", description, uses, githubLink, webLink);
+
+                description = `This project was created to help myself learn Farsi, the language of my fiance and
+                    her family.`;
+                uses = 'Java, JavaFX, MVC';
+                gitHubLink = '';
+                loadProject("persianTutor", "Persian Tutor", description, uses, githubLink);
+
+                description = `This project is capable of parsing data into a data structure capable of providing
+                    fast and efficient search times.`;
+                uses = 'Java, JavaFX';
+                gitHubLink = '';
+                loadProject("searchEngine", "Search Engine", description, uses, githubLink);
+
             </script>
 
         </div>
