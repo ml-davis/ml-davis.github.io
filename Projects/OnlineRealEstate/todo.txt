@@ -1,3 +1,0 @@
-TODO
-
-fix add new property behavior
