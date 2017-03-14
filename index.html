@@ -3,12 +3,52 @@
 <head lang="en">
     <meta charset="UTF-8">
     <link type="text/css" rel="stylesheet" href="Style.css"/>
-    <script src="Functions.js"></script>
+    <script src="GUI_Loader.js"></script>
+    <script src="Project.js"></script>
     <title>Portfolio</title>
+    <script>
+        const projects = [
+            new Project('nanogram',
+                `This is a puzzle-based desktop application. It allows users to create and save their own custom
+                    nanograms. It also allows users to solve them along with other randomly generated puzzles.`,
+                'Java, JavaFX, MVC',
+                ''
+            ),
+            new Project('mrRobot',
+                `This is an embedded system using a Beaglebone Black, two Atmega328p's, an RC car, and some other
+                    components to build a simple self-driving car. It is able to recognize objects and respond
+                    accordingly.`,
+                'C, C++, OpenCV, Node JS, Bash',
+                ''
+            ),
+            new Project('gameOfLife',
+                `This is a multi-threaded program built with the intention of running fast. The goal of the project
+                    was making the FPS run as high as possible.`,
+                'C++, OpenGL, TBB',
+                ''
+            ),
+            new Project('onlineRealEstate',
+                `This project was created in order to practice taking I/O from many users and store their
+                    information in a database.`,
+                'PHP, MySQL, JavaScript, HTML, CSS',
+                ''
+            ),
+            new Project('persianTutor',
+                `This project was created to help myself learn Farsi, the language of my fiance and her family.`,
+                'Java, JavaFX, MVC',
+                ''
+            ),
+            new Project('searchEngine',
+                `This project is capable of parsing data into a data structure capable of providing
+                    fast and efficient search times.`,
+                'Java, JavaFX',
+                ''
+            ),
+        ];
+    </script>
 </head>
 <body>
 
-    <!-- ********************************** HEADER ********************************** -->
     <header>
         <div id="profilePic">
             <img src="Media/Images/profilePic.png"/>
@@ -29,21 +69,13 @@
             </div>
         </div>
     </header>
-    
-    <!-- ********************************** NAV PANEL ********************************** -->
+
     <nav>
-        <a onclick="location.href='#nanogram'"> <div class="navTab"><h4>Nanogram</h4></div> </a>
-        <a onclick="location.href='#mrRobot'"> <div class="navTab"><h4>Mr Robot</h4></div> </a>
-        <a onclick="location.href='#gameOfLife'"> <div class="navTab"><h4>Game of Life</h4></div> </a>
-        <a onclick="location.href='#onlineRealEstate'"> <div class="navTab"><h4>Online Real Estate</h4></div> </a>
-        <a onclick="location.href='#persianTutor'"> <div class="navTab"><h4>Persian Tutor</h4></div> </a>
-        <a onclick="location.href='#searchEngine'"> <div class="navTab"><h4>Search Engine</h4></div> </a>
-        <a onclick=""> <div class="navTab"><h4>Nav7</h4></div> </a>
+        <script> insertNavBar(projects); </script>
     </nav>
 
     <main>
 
-        <!-- ********************************** PHOTOS PANEL ********************************** -->
         <div id="photos">
             <img class="photos" src=""/>
             <img class="photos" src=""/>
@@ -52,7 +84,6 @@
             <img class="photos" src=""/>
         </div>
 
-        <!-- ********************************** ABOUT ME PANEL ********************************** -->
         <div id="aboutMe" class="panel">
             <h3>About Me</h3>
             <p>
@@ -75,25 +106,10 @@
             <p>
                 My experience as a developer is still in its early stages, but I continue to grow and expand my 
                 knowledge every day. I plan to keep developing my skills throughout my entire career. Becoming an 
-                absolute master developer is one my biggest dreams and aspirations.
+                absolute master at programming is one of my biggest dreams and aspirations in life.
             </p>
         </div>
 
-        <!--<div id="skills">-->
-            
-             <!--********************************** LEFT SKILLS PANEL ********************************** -->
-            <!--<div id="skillsLeft" class="halfPanel">
-                <h3 class="temp">Need to list skills here</h3>
-            </div>-->
-
-            <!-- ********************************** RIGHT SKILLS PANEL ********************************** -->
-            <!--<div id="skillsRight" class="halfPanel">
-                <h3 class="temp">Need to list skills here</h3>
-            </div>-->
-
-        <!--</div>-->
-
-        <!-- ********************************** PROJECTS PANEL ********************************** -->
         <div id="projects" class="panel">
             <div id="projectsHeader">
                 <h1>Personal Projects</h1>
@@ -103,46 +119,10 @@
             </div>
 
             <script>
-                let description, uses, githubLink, webLink;
 
-                description = `This is a puzzle-based desktop application. It allows users to create and save
-                their own custom nanograms. It also allows users to solve them along with other randomly generated
-                puzzles.`;
-                uses = 'Java, JavaFX, MVC';
-                githubLink = 'https://www.google.ca';
-                loadProject("nanogram", "Nanogram", description, uses, githubLink);
-
-                description = `This is an embedded system using a Beaglebone Black, two Atmega328p's, an RC
-                    car, and some other components to build a simple self-driving car. It is able to recognize objects
-                    and respond accordingly.`;
-                uses = 'C, C++, OpenCV, Node JS, Bash';
-                githubLink = 'https://www.google.ca';
-                loadProject("mrRobot", "Mr Robot", description, uses, githubLink);
-
-                description = `This is a multi-threaded program built with the intention of running fast. The goal of
-                    the project was making the FPS run as high as possible.`;
-                uses = 'C++, OpenGL, TBB';
-                gitHubLink = 'https://www.google.ca';
-                loadProject("gameOfLife", "Game of Life", description, uses, githubLink);
-
-                description = `This project was created in order to practice taking I/O from many users and store their
-                    information in a database.`;
-                uses = 'PHP, MySQL, JavaScript, HTML, CSS';
-                gitHubLink = 'https://www.google.ca';
-                webLink = 'Projects/OnlineRealEstate/index.php';
-                loadProject("onlineRealEstate", "Online Real Estate", description, uses, githubLink);
-
-                description = `This project was created to help myself learn Farsi, the language of my fiance and
-                    her family.`;
-                uses = 'Java, JavaFX, MVC';
-                gitHubLink = '';
-                loadProject("persianTutor", "Persian Tutor", description, uses, githubLink);
-
-                description = `This project is capable of parsing data into a data structure capable of providing
-                    fast and efficient search times.`;
-                uses = 'Java, JavaFX';
-                gitHubLink = '';
-                loadProject("searchEngine", "Search Engine", description, uses, githubLink);
+                for (const project of projects) {
+                    loadProject(project);
+                }
 
             </script>
 

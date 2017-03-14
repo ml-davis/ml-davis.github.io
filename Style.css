@@ -65,8 +65,9 @@ header p {
     text-align: center;
     margin: 5px 2px 5px 1px;
     padding: 5px;
-    width: 164px;
-    background-image: url("Media/Images/tabPicture.png");
+    /*width: 1310px;*/
+    /*background-image: url("Media/Images/tabPicture.png");*/
+    background-color: #01477a;
     border: 4px double black;
     border-radius: 20px;
 }
@@ -82,18 +83,6 @@ header p {
     border: 4px double black;
     border-radius: 20px;
     padding: 15px 30px 15px 30px;
-}
-
-.halfPanel {
-    display: inline-block;
-    vertical-align: top;
-    margin: 5px;
-    width: 584px;
-    height: 1150px;
-    background-image: url("Media/Images/blue_texture.jpg");
-    border: 4px double black;
-    border-radius: 20px;
-    padding: 5px 30px 15px 30px;
 }
 
 main {
