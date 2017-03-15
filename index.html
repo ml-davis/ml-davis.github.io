@@ -11,39 +11,42 @@
             new Project('nanogram',
                 `This is a puzzle-based desktop application. It allows users to create and save their own custom
                     nanograms. It also allows users to solve them along with other randomly generated puzzles.`,
-                'Java, JavaFX, MVC',
-                ''
+                'Java, JavaFX',
+                new Map([['Nanogram', 'https://github.com/ml-davis/nanogram']])
             ),
             new Project('mrRobot',
-                `This is an embedded system using a Beaglebone Black, two Atmega328p's, an RC car, and some other
-                    components to build a simple self-driving car. It is able to recognize objects and respond
-                    accordingly.`,
+                `This is an embedded system project which uses a Beaglebone Black, two Atmega328p's, an RC car, and
+                    some other components to build a simple self-driving car. It is able to recognize objects and
+                    respond accordingly.`,
                 'C, C++, OpenCV, Node JS, Bash',
-                ''
+                new Map()
             ),
             new Project('gameOfLife',
                 `This is a multi-threaded program built with the intention of running fast. The goal of the project
-                    was making the FPS run as high as possible.`,
-                'C++, OpenGL, TBB',
-                ''
+                    was making the FPS run as high as possible. The project was created three times using different
+                    technologies: Intel's Thread Building Blocks, Nvidia's CUDA, and the open-source OpenCL.`,
+                'C++ (with TBB), C (with CUDA and OpenCL), OpenGL for graphical interface',
+                new Map([['Using Thread Building Blocks', 'https://github.com/ml-davis/game_of_life_tbb'],
+                        ['Using CUDA', 'https://github.com/ml-davis/game_of_life_cuda'],
+                        ['Using OpenCL', 'https://github.com/ml-davis/game_of_life_opencl']])
             ),
             new Project('onlineRealEstate',
                 `This project was created in order to practice taking I/O from many users and store their
                     information in a database.`,
                 'PHP, MySQL, JavaScript, HTML, CSS',
-                ''
+                new Map([['Online Real Estate', 'https://github.com/ml-davis/online_real_estate']])
             ),
             new Project('persianTutor',
                 `This project was created to help myself learn Farsi, the language of my fiance and her family.`,
-                'Java, JavaFX, MVC',
-                ''
+                'Java, JavaFX',
+                new Map([['Persian Tutor', 'https://github.com/ml-davis/persian_tutor.git']])
             ),
             new Project('searchEngine',
                 `This project is capable of parsing data into a data structure capable of providing
                     fast and efficient search times.`,
                 'Java, JavaFX',
-                ''
-            ),
+                new Map([['Search Engine', 'https://github.com/ml-davis/search_engine_1']])
+            )
         ];
     </script>
 </head>
@@ -76,14 +79,6 @@
 
     <main>
 
-        <div id="photos">
-            <img class="photos" src=""/>
-            <img class="photos" src=""/>
-            <img class="photos" src=""/>
-            <img class="photos" src=""/>
-            <img class="photos" src=""/>
-        </div>
-
         <div id="aboutMe" class="panel">
             <h3>About Me</h3>
             <p>
@@ -97,7 +92,7 @@
             </p>
             <p>
                 After my three year contract with the army expired, I decided it was time for a change. I knew that
-                I needed to pursue a career that I could be passionate about. I began programming. I fell in love with
+                I needed to pursue a career that I could be passionate about. I began programming and fell in love with
                 it shortly after. The freedom to build and create whatever my mind desired was an exciting experience. 
                 Automating tedious tasks and building simple games became a hobby. The eureka moment that came when 
                 creating the perfect algorithm to solve a problem was so satisfying. Trying to create better, more 
