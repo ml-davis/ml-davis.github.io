@@ -32,12 +32,14 @@ function loadProject(project) {
     loadProjectImage(project.getID() + "2");
     loadProjectImage(project.getID() + "3");
 
+    console.log('loading project');
     // load links to GitHub
-    if (project.getLinks().size > 0) {
+    if (project.getLinks().length > 0) {
         document.write("<p>GitHub:</p>");
-        project.getLinks().forEach( (link, linkName) =>
-            document.write("<p class='link'><a href='" + link + "'>" + linkName + "</a></p>")
-        );
+        for (const link of project.getLinks()) {
+            console.log('link -> ' + link);
+            document.write("<p class='link'><a href='" + link + "'>" + link + "</a></p>");
+        }
     }
 
     document.write("<br/><br/></div><hr/>");

@@ -9,7 +9,9 @@
       <case-sensitivity plain-identifiers="lower" quoted-identifiers="lower" />
       <secret-storage>master_key</secret-storage>
       <user-name>Matthew</user-name>
+      <introspection-schemas>*:onlinerealestate</introspection-schemas>
       <resolve-scope>onlinerealestate:</resolve-scope>
+      <unqualified-resolve-schemas>onlinerealestate:</unqualified-resolve-schemas>
     </data-source>
   </component>
 </project>
