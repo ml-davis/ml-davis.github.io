@@ -119,10 +119,15 @@ td {
     margin-bottom: 25px;
 }
 
+video {
+    width: 1230px;
+    height: 700px;
+}
+
 .projectVideo {
     margin: auto;
     width: min-content;
-    height: 600px;
+    height: 720px;
 }
 
 #projectsHeader {

@@ -22,7 +22,7 @@ function loadProject(project) {
 
     // load video
     document.write("<div class='projectVideo'>");
-    document.write("<video width='1025' height='576' controls>");
+    document.write("<video controls>");
     document.write("<source src='Media/Videos/" + project.getID() +".mp4' type='video/mp4'>");
     document.write("<video><br/>");
     document.write("</div>");
