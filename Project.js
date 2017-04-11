@@ -1,11 +1,12 @@
 
 class Project {
-    constructor(id, description, technologies, links) {
+    constructor(id, description, technologies, videoURL, gitLinks) {
         this._id = id;
         this._name = convertFromCamelCase(id);
         this._description = description;
         this._technologies = technologies;
-        this._links = links;
+        this._videoURL = videoURL;
+        this._gitLinks = gitLinks;
     }
 
     getID() {
@@ -24,8 +25,12 @@ class Project {
         return this._technologies;
     }
 
+    getVideoURL() {
+        return this._videoURL;
+    }
+
     getLinks() {
-        return this._links;
+        return this._gitLinks;
     }
 }
 

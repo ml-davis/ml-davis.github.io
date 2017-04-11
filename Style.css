@@ -21,7 +21,7 @@ header {
     text-align: left;
     border-radius: 20px;
     border: double 4px black;
-    background-image: url("Media/Images/banner.jpg");
+    background-image: url("Images/banner.jpg");
     font-weight: bold;
 }
 
@@ -119,15 +119,10 @@ td {
     margin-bottom: 25px;
 }
 
-video {
-    width: 1230px;
-    height: 700px;
-}
-
 .projectVideo {
-    margin: auto;
-    width: min-content;
-    height: 720px;
+    margin-left: 3px;
+    width: 1239px;
+    height: 700px;
 }
 
 #projectsHeader {

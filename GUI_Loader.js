@@ -20,14 +20,8 @@ function loadProject(project) {
     document.write("<p>" + project.getDescription() + "</p>");
     document.write("<p>Uses:" + project.getTechnologies() + "</p>");
 
-    // load video
-    document.write("<div class='projectVideo'>");
-    document.write("<video controls>");
-    document.write("<source src='Media/Videos/" + project.getID() +".mp4' type='video/mp4'>");
-    document.write("<video><br/>");
-    document.write("</div>");
+    loadVideo(project.getVideoURL());
 
-    // load images
     loadProjectImage(project.getID() + "1");
     loadProjectImage(project.getID() + "2");
     loadProjectImage(project.getID() + "3");
@@ -46,7 +40,12 @@ function loadProject(project) {
 }
 
 function loadProjectImage(id) {
-    document.write("<a href ='Media/Images/" + id + ".png'>");
-    document.write("<img class='projectImage' src='Media/Images/" + id + ".png'/>");
+    let imagePath = 'Images/' + id + '.png';
+    document.write("<a href ='" + imagePath + "'>");
+    document.write("<img class='projectImage' src='" + imagePath + "'/>");
     document.write("</a>");
+}
+
+function loadVideo(path) {
+    document.write("<iframe class='projectVideo' src='" + path + "' allowfullscreen></iframe>");
 }
