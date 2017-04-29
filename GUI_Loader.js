@@ -1,14 +1,18 @@
 
 function insertNavBar(projects) {
 
-    let width = 1310/projects.length - (projects.length - 1) * 3.75;
+    const window_width = window.innerWidth;
+    if (window_width >= 1310) {
 
-    for (const project of projects) {
-        document.write(`<a onclick="location.href='#` + project.getID() + `'">`);
-        document.write(`<div class="navTab" style="width: ` + width + `px">`);
-        document.write(`<h4>` + project.getName() + `</h4>`);
-        document.write(`</div>`);
-        document.write(`</a>`);
+        let width = 1310 / projects.length - (projects.length - 1) * 3.75;
+
+        for (const project of projects) {
+            document.write(`<a onclick="location.href='#` + project.getID() + `'">`);
+            document.write(`<div class="navTab" style="width: ` + width + `px">`);
+            document.write(`<h4>` + project.getName() + `</h4>`);
+            document.write(`</div>`);
+            document.write(`</a>`);
+        }
     }
 }
 

@@ -50,83 +50,83 @@
                 'C++ (with TBB), C (with CUDA and OpenCL), OpenGL for graphical interface',
                 'https://www.youtube.com/embed/5eOMqYD8FUc',
                 ['https://github.com/ml-davis/game_of_life_tbb',
-                 'https://github.com/ml-davis/game_of_life_cuda',
-                 'https://github.com/ml-davis/game_of_life_opencl']
+                    'https://github.com/ml-davis/game_of_life_cuda',
+                    'https://github.com/ml-davis/game_of_life_opencl']
             ),
         ];
     </script>
 </head>
 <body>
 
-    <header>
-        <div id="profilePic">
-            <img src="Images/profilePic.png"/>
+<header>
+    <div id="profilePic">
+        <img src="Images/profilePic.png"/>
+    </div>
+
+    <div id="headerText">
+        <h1>Matthew Davis</h1>
+        <div id="headerLeftSide">
+            <h3>BS in Computer Science (Computer Systems)</h3>
+            <h3>Concordia University, Montreal QC</h3>
+            <h3>Seeking a position as a software developer</h3>
         </div>
 
-        <div id="headerText">
-            <h1>Matthew Davis</h1>
-            <div id="headerLeftSide">
-                <p>BS in Computer Science (Computer Systems)</p>
-                <p>Concordia University, Montreal QC</p>
-                <p>Seeking a position as a software developer</p>
-            </div>
-
-            <div id="headerRightSide">
-                <p>(514) 705 - 5036</p>
-                <p>ML.Davis195@gmail.com</p>
-                <p>Currently Residing: Montreal, QC, Canada</p>
-            </div>
+        <div id="headerRightSide">
+            <h3>(514) 705 - 5036</h3>
+            <h3>ML.Davis195@gmail.com</h3>
+            <h3>Currently Residing: Montreal, QC, Canada</h3>
         </div>
-    </header>
+    </div>
+</header>
 
-    <nav>
-        <script> insertNavBar(projects); </script>
-    </nav>
+<nav>
+    <script> insertNavBar(projects); </script>
+</nav>
 
-    <main>
+<main>
 
-        <div id="aboutMe" class="panel">
-            <h3>About Me</h3>
-            <p>
-                All my life, I have been fascinated by technology. Since I was young, I have loved playing video
-                games, spending time on the internet, and working with anything digital.
-            </p>
-            <p>
-                After high school, I worked many jobs. I had jumped between many blue collared positions and even
-                spent three years in the infantry with the Canadian Forces. The entire time, I had been left feeling
-                unfulfilled.
-            </p>
-            <p>
-                After my three year contract with the army expired, I decided it was time for a change. I knew that
-                I needed to pursue a career that I could be passionate about. I began programming and fell in love with
-                it shortly after. The freedom to build and create whatever my mind desired was an exciting experience. 
-                Automating tedious tasks and building simple games became a hobby. The eureka moment that came when 
-                creating the perfect algorithm to solve a problem was so satisfying. Trying to create better, more 
-                flexible, and extensible code became an obsession of mine. I knew that I found what I wanted to do.
-            </p>
-            <p>
-                My experience as a developer is still in its early stages, but I continue to grow and expand my 
-                knowledge every day. I plan to keep developing my skills throughout my entire career. Becoming an 
-                absolute master at programming is one of my biggest dreams and aspirations in life.
-            </p>
-        </div>
+    <div id="aboutMe" class="panel">
+        <h3>About Me</h3>
+        <p>
+            All my life, I have been fascinated by technology. Since I was young, I have loved playing video
+            games, spending time on the internet, and working with anything digital.
+        </p>
+        <p>
+            After high school, I worked many jobs. I had jumped between many blue collared positions and even
+            spent three years in the infantry with the Canadian Forces. The entire time, I had been left feeling
+            unfulfilled.
+        </p>
+        <p>
+            After my three year contract with the army expired, I decided it was time for a change. I knew that
+            I needed to pursue a career that I could be passionate about. I began programming and fell in love with
+            it shortly after. The freedom to build and create whatever my mind desired was an exciting experience.
+            Automating tedious tasks and building simple games became a hobby. The eureka moment that came when
+            creating the perfect algorithm to solve a problem was so satisfying. Trying to create better, more
+            flexible, and extensible code became an obsession of mine. I knew that I found what I wanted to do.
+        </p>
+        <p>
+            My experience as a developer is still in its early stages, but I continue to grow and expand my
+            knowledge every day. I plan to keep developing my skills throughout my entire career. Becoming an
+            absolute master at programming is one of my biggest dreams and aspirations in life.
+        </p>
+    </div>
 
-        <div id="projects" class="panel">
-            <div id="projectsHeader">
-                <h1>Personal Projects</h1>
-                <h3>
-                    These are projects that I've worked on in my free time to improve my skills
-                </h3><hr>
-            </div>
-
-            <script>
-                for (const project of projects) {
-                    loadProject(project);
-                }
-            </script>
-
+    <div id="projects" class="panel">
+        <div id="projectsHeader">
+            <h1>Personal Projects</h1>
+            <h3>
+                These are projects that I've worked on in my free time to improve my skills
+            </h3><hr>
         </div>
 
-    </main>
+        <script>
+            for (const project of projects) {
+                loadProject(project);
+            }
+        </script>
+
+    </div>
+
+</main>
 </body>
 </html>
