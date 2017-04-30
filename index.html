@@ -1,132 +1,82 @@
 <!DOCTYPE html>
 <html>
+
 <head lang="en">
     <meta charset="UTF-8">
     <link type="text/css" rel="stylesheet" href="Style.css"/>
     <script src="GUI_Loader.js"></script>
-    <script src="Project.js"></script>
+    <script src="ProjectClass.js"></script>
+    <script src="Projects.js"></script>
     <title>Portfolio</title>
-    <script>
-        const projects = [
-            new Project('nanogram',
-                `This is a puzzle-based desktop application. It allows users to create and save their own custom
-                    nanograms. It also allows users to solve them along with other randomly generated puzzles.`,
-                'Java, JavaFX',
-                'https://www.youtube.com/embed/xdYiaJIy8S4',
-                ['https://github.com/ml-davis/nanogram']
-            ),
-            new Project('embeddedSystems',
-                `This is an embedded system project which uses a Beaglebone Black, two Atmega328p's, an RC car, and
-                    some other components to build a simple self-driving car. It is able to recognize objects and
-                    respond accordingly.`,
-                'C, C++, OpenCV, Node JS, Bash',
-                'https://www.youtube.com/embed/5YsZCfJTV1s',
-                []
-            ),
-            new Project('searchEngine',
-                `This project is capable of parsing data into a data structure capable of providing
-                    fast and efficient search times.`,
-                'Java, JavaFX',
-                'https://www.youtube.com/embed/as0ER0kk2Wc',
-                ['https://github.com/ml-davis/search_engine_1']
-            ),
-            new Project('onlineRealEstate',
-                `This project was created in order to practice taking I/O from many users and store their
-                    information in a database.`,
-                'PHP, MySQL, JavaScript, HTML, CSS',
-                'https://www.youtube.com/embed/Eflp7wcNjOU',
-                ['https://github.com/ml-davis/online_real_estate']
-            ),
-            new Project('persianTutor',
-                `This project was created to help myself learn Farsi, the language of my fiance and her family.`,
-                'Java, JavaFX',
-                'https://www.youtube.com/embed/qrAtu14MvoA',
-                ['https://github.com/ml-davis/persian_tutor.git']
-            ),
-            new Project('gameOfLife',
-                `This is a multi-threaded program built with the intention of running fast. The goal of the project
-                    was making the FPS run as high as possible. The project was created three times using different
-                    technologies: Intel's Thread Building Blocks, Nvidia's CUDA, and the open-source OpenCL.`,
-                'C++ (with TBB), C (with CUDA and OpenCL), OpenGL for graphical interface',
-                'https://www.youtube.com/embed/5eOMqYD8FUc',
-                ['https://github.com/ml-davis/game_of_life_tbb',
-                    'https://github.com/ml-davis/game_of_life_cuda',
-                    'https://github.com/ml-davis/game_of_life_opencl']
-            ),
-        ];
-    </script>
 </head>
+
 <body>
-
-<header>
-    <div id="profilePic">
-        <img src="Images/profilePic.png"/>
-    </div>
-
-    <div id="headerText">
-        <h1>Matthew Davis</h1>
-        <div id="headerLeftSide">
-            <h3>BS in Computer Science (Computer Systems)</h3>
-            <h3>Concordia University, Montreal QC</h3>
-            <h3>Seeking a position as a software developer</h3>
+    <header>
+        <div id="profilePic">
+            <img src="Images/profilePic.png"/>
         </div>
 
-        <div id="headerRightSide">
-            <h3>(514) 705 - 5036</h3>
-            <h3>ML.Davis195@gmail.com</h3>
-            <h3>Currently Residing: Montreal, QC, Canada</h3>
+        <div id="headerText">
+            <h1>Matthew Davis</h1>
+            <div id="headerLeftSide">
+                <h3>BS in Computer Science (Computer Systems)</h3>
+                <h3>Concordia University, Montreal QC</h3>
+                <h3>Seeking a position as a software developer</h3>
+            </div>
+
+            <div id="headerRightSide">
+                <h3>(514) 705 - 5036</h3>
+                <h3>ML.Davis195@gmail.com</h3>
+                <h3>Currently Residing: Montreal, QC, Canada</h3>
+            </div>
         </div>
-    </div>
-</header>
+    </header>
 
-<nav>
-    <script> insertNavBar(projects); </script>
-</nav>
+    <nav>
+        <script> insertNavBar(projects); </script>
+    </nav>
 
-<main>
+    <main>
 
-    <div id="aboutMe" class="panel">
-        <h3>About Me</h3>
-        <p>
-            All my life, I have been fascinated by technology. Since I was young, I have loved playing video
-            games, spending time on the internet, and working with anything digital.
-        </p>
-        <p>
-            After high school, I worked many jobs. I had jumped between many blue collared positions and even
-            spent three years in the infantry with the Canadian Forces. The entire time, I had been left feeling
-            unfulfilled.
-        </p>
-        <p>
-            After my three year contract with the army expired, I decided it was time for a change. I knew that
-            I needed to pursue a career that I could be passionate about. I began programming and fell in love with
-            it shortly after. The freedom to build and create whatever my mind desired was an exciting experience.
-            Automating tedious tasks and building simple games became a hobby. The eureka moment that came when
-            creating the perfect algorithm to solve a problem was so satisfying. Trying to create better, more
-            flexible, and extensible code became an obsession of mine. I knew that I found what I wanted to do.
-        </p>
-        <p>
-            My experience as a developer is still in its early stages, but I continue to grow and expand my
-            knowledge every day. I plan to keep developing my skills throughout my entire career. Becoming an
-            absolute master at programming is one of my biggest dreams and aspirations in life.
-        </p>
-    </div>
-
-    <div id="projects" class="panel">
-        <div id="projectsHeader">
-            <h1>Personal Projects</h1>
-            <h3>
-                These are projects that I've worked on in my free time to improve my skills
-            </h3><hr>
+        <div id="aboutMe" class="panel">
+            <h3>About Me</h3>
+            <p>
+                All my life, I have been fascinated by technology. Since I was young, I have loved playing video
+                games, spending time on the internet, and working with anything digital.
+            </p>
+            <p>
+                After high school, I worked many jobs. I had jumped between many blue collared positions and even
+                spent three years in the infantry with the Canadian Forces. The entire time, I had been left feeling
+                unfulfilled.
+            </p>
+            <p>
+                After my three year contract with the army expired, I decided it was time for a change. I knew that
+                I needed to pursue a career that I could be passionate about. I began programming and fell in love with
+                it shortly after. The freedom to build and create whatever my mind desired was an exciting experience.
+                Automating tedious tasks and building simple games became a hobby. The eureka moment that came when
+                creating the perfect algorithm to solve a problem was so satisfying. Trying to create better, more
+                flexible, and extensible code became an obsession of mine. I knew that I found what I wanted to do.
+            </p>
+            <p>
+                My experience as a developer is still in its early stages, but I continue to grow and expand my
+                knowledge every day. I plan to keep developing my skills throughout my entire career. Becoming an
+                absolute master at programming is one of my biggest dreams and aspirations in life.
+            </p>
         </div>
 
-        <script>
-            for (const project of projects) {
-                loadProject(project);
-            }
-        </script>
+        <div id="projects" class="panel">
+            <div id="projectsHeader">
+                <h1>Personal Projects</h1>
+                <h3>
+                    These are projects that I've worked on in my free time to improve my skills
+                </h3><hr>
+            </div>
 
-    </div>
+            <script> loadProjects() </script>
 
-</main>
+        </div>
+
+    </main>
 </body>
+
 </html>

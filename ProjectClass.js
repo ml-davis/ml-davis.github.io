@@ -34,6 +34,7 @@ class Project {
     }
 }
 
+// changes id to name: embeddedSystems -> Embedded Systems
 function convertFromCamelCase(phrase) {
     let result = phrase.replace( /[A-Z]/g, " $&");
     return result.charAt(0).toUpperCase() + result.slice(1);
